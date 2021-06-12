@@ -7,11 +7,12 @@ The images provided below show the final product of the refactored code.
 
 ![Homework Screenshot 1](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
 
-![Homework Screenshot 2](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
+![Homework Screenshot 2](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot-1.png)
 
-![Homework Screenshot 3](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
+![Homework Screenshot 3](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot-2.png)
 
 The location of the repository for the refactored code can be accessed through this link:
+
 
 The live website of the refactored code can be accessed through this link:
 
