@@ -12,9 +12,7 @@ The images provided below show the final product of the refactored code.
 ![Homework Screenshot 3](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot-2.png)
 
 The location of the repository for the refactored code can be accessed through this link:
-
+https://github.com/SalasD93/project-wk1-refactoring
 
 The live website of the refactored code can be accessed through this link:
-
-
-<link rel="stylesheet" href="./assets/wk1-screenshots">
+https://salasd93.github.io/project-wk1-refactoring/
