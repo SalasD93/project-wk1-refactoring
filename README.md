@@ -5,11 +5,11 @@ I was tasked with cleaning up a provided starter code for a webstite. I was resp
 
 The images provided below show the final product of the refactored code.
 
-![Homework Screenshot 1](./assets/wk1-screenshots/wk1-screenshot)
+![Homework Screenshot 1](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
 
-![Homework Screenshot 2](./assets/wk1-screenshots/wk1-screenshot-1)
+![Homework Screenshot 2](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
 
-![Homework Screenshot 3](./assets/wk1-screenshots/wk1-screenshot-2)
+![Homework Screenshot 3](https://github.com/SalasD93/project-wk1-refactoring/blob/main/assets/wk1-screenshots/wk1-screenshot.png)
 
 The location of the repository for the refactored code can be accessed through this link:
 
