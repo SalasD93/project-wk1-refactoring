@@ -3,51 +3,54 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+    <!-- change style.css to styles.css -->
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <!-- change title -->
+    <title>Horiseon Services</title>
 </head>
 
 <body>
-    <div class="header">
+    <!-- change div to header for accesibility -->
+    <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <!-- change div to nav for accessibility -->
+        <nav>
             <ul>
-                <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
+                <li><a href="#search-engine-optimization">Search Engine Optimization</a></li>
+                <li><a href="#online-reputation-management">Online Reputation Management</a></li>
+                <li><a href="#social-media-marketing">Social Media Marketing</a></li>
             </ul>
-        </div>
-    </div>
-    <div class="hero"></div>
+        </nav>
+    </header>
+    <!-- change div to figure -->
+    <figure class="hero"></figure>
+    <!-- 3 main blocks begin -->
     <div class="content">
-        <div class="search-engine-optimization">
-            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+        <!-- change divs to sections and add alt attributes -->
+        <!-- add id to search-engine-optimization to make link function -->
+        <section id="search-engine-optimization" class="search-engine-optimization">
+            <img src="./assets/images/search-engine-optimization.jpg" alt="An image of office supplies and a notebook that reads SEO benefits." class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
-        </div>
-        <div id="online-reputation-management" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
+        </section>
+        <section id="online-reputation-management" class="online-reputation-management">
+            <img src="./assets/images/online-reputation-management.jpg" alt="An image of chart labeled Reputation on a laptop screen." class="float-right" />
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
-        </div>
-        <div id="social-media-marketing" class="social-media-marketing">
-            <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
+        </section>
+        <section id="social-media-marketing" class="social-media-marketing">
+            <img src="./assets/images/social-media-marketing.jpg" alt="An image of social media icons scattered across a desk at a meeting." class="float-left" />
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
-        </div>
+        </section>
     </div>
+    <!-- 3 main blocks end -->
     <div class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
